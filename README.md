@@ -5,9 +5,9 @@ This project aims to enhance accessibility on PC computers by developing a comma
 The project employs Ultrasonic Sensors to measure the distance from the sensor to an object in front of it. This distance information is utilized to identify hand motions and their positions relative to the PC. The Arduino Control Board processes this data and transmits it to the PC through the USB Serial Port. A Python script, leveraging the pyserial and pyautogui libraries, then interprets the serial input, translating it into commands for the corresponding application.
 
 **Key Objectives:** <br />
-Accessibility Improvement: Enhance accessibility for PC users through gesture controls.
-Quality of Service: Improve the quality of service by providing a reliable and efficient gesture recognition system.
-Language Barrier Removal: Overcome language barriers associated with traditional keyboards, enabling users of non-English languages to interact seamlessly.
+Accessibility Improvement: Enhance accessibility for PC users through gesture controls.<br>
+Quality of Service: Improve the quality of service by providing a reliable and efficient gesture recognition system.<br>
+Language Barrier Removal: Overcome language barriers associated with traditional keyboards, enabling users of non-English languages to interact seamlessly.<br>
 
 **Components Used:** <br />
 1. Ultrasonic Sensors
